@@ -8,8 +8,13 @@ body {
         
     }
 /*Above is CSS for Index.html file*/
-
+body{
     margin-top: 60px;
     color:black;
 }
 /*Above is CSS for Gallery.html file*/
+body {
+    margin-top: 60px;
+    color:black;
+}
+/*Above is CSS for the mtc.html file*/
